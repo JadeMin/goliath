@@ -1,2 +1,0 @@
-# goliath
-trash
