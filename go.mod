@@ -1,8 +1,7 @@
-module playground
+module goliath
 
-go 1.20
+go 1.22.0
 
-require (
-	github.com/alexflint/go-arg v1.4.3 // direct
-	github.com/alexflint/go-scalar v1.2.0 // indirect
-)
+require github.com/alexflint/go-arg v1.4.3
+
+require github.com/alexflint/go-scalar v1.2.0 // indirect
